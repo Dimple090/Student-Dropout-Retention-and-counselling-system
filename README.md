@@ -118,13 +118,5 @@ DropTrack.AI is an innovative platform that leverages artificial intelligence to
    ```
    The Django server will run on http://127.0.0.1:8000
 
-## 👥 Team MahaDev.py
 
-### Contributors
-1. Dimple Parihar
-2. Anamika Sharma
-3. Arjun 
-4. Mitali Kotwal
-
----
 
