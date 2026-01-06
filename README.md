@@ -25,10 +25,6 @@ DropTrack.AI is an innovative platform that leverages artificial intelligence to
 - **Counseling Management**: Schedule and manage counseling sessions
 - **Performance Monitoring**: Track academic and behavioral indicators
 
-## 📸 Project Demo
-- **Project Video**: [![Watch Video](https://img.youtube.com/vi/WfC9eiZ2A10/0.jpg)](https://youtu.be/WfC9eiZ2A10?si=hdq-AC6gmWAEWRwh)
-- **YouTube Demo**: [https://youtu.be/WfC9eiZ2A10?si=hdq-AC6gmWAEWRwh](https://youtu.be/WfC9eiZ2A10?si=hdq-AC6gmWAEWRwh)
-
 ## 🛠️ Tech Stack
 ### Frontend
 - React.js
@@ -66,7 +62,7 @@ DropTrack.AI is an innovative platform that leverages artificial intelligence to
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Aakash-Jha3903/AI-based_Student_drop-out_prediction_and_Counseling_system.git
+   git clone https://github.com/Dimple090/Student-Dropout-Retention-and-counselling-system.git
    cd AI-based_Student_drop-out_prediction_and_Counseling_system
    ```
 
@@ -125,12 +121,10 @@ DropTrack.AI is an innovative platform that leverages artificial intelligence to
 ## 👥 Team MahaDev.py
 
 ### Contributors
-1. Aakash Jha
-2. Himanshi Rana
-3. Akanshu Mittal
-4. Isha Gupta
-5. Ishmeet Singh Sodhi
-6. Abhay Kushwaha
+1. Dimple Parihar
+2. Anamika Sharma
+3. Arjun 
+4. Mitali Kotwal
+
 ---
 
-Made with ❤️ by Team MahaDev.py
